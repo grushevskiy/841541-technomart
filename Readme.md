@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Валерий Грушевский](https://up.htmlacademy.ru/htmlcss/22/user/841541).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Артёмов](https://htmlacademy.ru/profile/firefoxic).
 
 ---
 
